@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cassini", "Cassini\Cassini.csproj", "{69463E19-AD3C-44F8-B38C-285277F9C952}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CassiniRunner", "CassiniRunner\CassiniRunner.csproj", "{EFDCF252-7161-4EC1-8921-9A52141A18F8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69463E19-AD3C-44F8-B38C-285277F9C952}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69463E19-AD3C-44F8-B38C-285277F9C952}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69463E19-AD3C-44F8-B38C-285277F9C952}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69463E19-AD3C-44F8-B38C-285277F9C952}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFDCF252-7161-4EC1-8921-9A52141A18F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFDCF252-7161-4EC1-8921-9A52141A18F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFDCF252-7161-4EC1-8921-9A52141A18F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFDCF252-7161-4EC1-8921-9A52141A18F8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
