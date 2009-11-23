@@ -1,5 +1,5 @@
-bin
-obj
+Cassini*/bin
+Cassini*/obj
 *.suo
 *.csproj.user
 _ReSharper*
